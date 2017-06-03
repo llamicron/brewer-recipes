@@ -1,0 +1,10 @@
+---
+name: mexican_lager
+water: 14.0
+grain: 9.5
+grain_temp: 85.0
+desired_mash_temp: 148.0
+mash_temp: 148.0
+mash_time: 3600.0
+mashout_temp: 168.0
+created_on: 2017-06-03 12:13:29.426051286 -05:00
